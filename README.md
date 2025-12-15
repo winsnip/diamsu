@@ -54,4 +54,20 @@ Join our Telegram channel for updates and discussion:
 👉 https://t.me/winsnip
 
 ## How to Run
-1. 
+![photo_2025-12-15_17-31-10](https://github.com/user-attachments/assets/b2032ca7-df1f-48f7-a7a0-d66623649ea6)
+
+1. Open the web and check when you connect your wallet.
+2. Look in the Network tab and look at the image. Extract the information that has been burned into the .env file.
+3. Save the information and save it in the .env file.
+4. Run the command
+   ```
+   npm install
+   ```
+   and 
+   ```
+   node run.js
+   ```
+
+5. U can save on screen on cli
+
+To gimme coffe to support : https://trakteer.id/Winsnipsupport/tip
